@@ -26,7 +26,7 @@
 <br/>
   
 <p align="center">
-<img width="600px"  src="https://skillicons.dev/icons?i=vscode,react,nodejs,idea,github,git,bootstrap&perline=10"  />
+<img width="600px"  src="https://skillicons.dev/icons?i=vscode,react,nodejs,idea,github,git,bootstrap,npm,postman,vite,nodejs&perline=10"  />
 </summary>
 <br/>
 
