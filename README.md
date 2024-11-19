@@ -8,12 +8,23 @@
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>Languages and Tools: </strong>
+  <strong>Languages: </strong>
+</summary>
+<br/>
+
+<p align="center">
+<img width="600px"  src="https://skillicons.dev/icons?i=py,php,mysql,js,html,css&perline=10"  />
+</summary>
+<br/>
+
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>Tools: </strong>
 </summary>
 <br/>
   
 <p align="center">
-<img width="600px"  src="https://skillicons.dev/icons?i=vscode,react,py,php,nodejs,mysql,js,idea,html,github,git,css,bootstrap&perline=10"  />
+<img width="600px"  src="https://skillicons.dev/icons?i=vscode,react,nodejs,idea,github,git,bootstrap&perline=10"  />
 </summary>
 <br/>
 
