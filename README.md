@@ -13,7 +13,7 @@
 <br/>
 
 <p align="center">
-<img width="600px"  src="https://skillicons.dev/icons?i=py,php,mysql,js,html,css&perline=10"  />
+<img width="600px"  src="https://skillicons.dev/icons?i=py,php,mysql,js,java,html,css&perline=10"  />
 </summary>
 <br/>
 </details>
@@ -26,7 +26,7 @@
 <br/>
   
 <p align="center">
-<img width="600px"  src="https://skillicons.dev/icons?i=vscode,react,nodejs,idea,github,git,bootstrap,npm,postman,vite,nodejs&perline=10"  />
+<img width="600px"  src="https://skillicons.dev/icons?i=vscode,react,nodejs,idea,github,git,bootstrap,npm,postman,vite,nodejs,jwt&perline=10"  />
 </summary>
 <br/>
 
