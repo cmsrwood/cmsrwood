@@ -2,7 +2,7 @@
   <img src="GIF/Earth.gif" width="24px">
   𝐇𝐞𝐥𝐥𝐨 👋, &lt;I'm Wood/&gt;!
   <img src="GIF/Hi.gif" width="40px" />
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=otaviossousa&label=Profile%20views&color=0e75b6&style=flat" alt="otavio-sousa" /> </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=cmsrwood&label=Profile%20views&color=0e75b6&style=flat" alt="otavio-sousa" /> </p>
 </h1>
 <br/>
 
