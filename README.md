@@ -1,7 +1,8 @@
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
-  𝐇𝐞𝐥𝐥𝐨, &lt;I'm Wood/&gt;!
+  𝐇𝐞𝐥𝐥𝐨 👋, &lt;I'm Wood/&gt;!
   <img src="GIF/Hi.gif" width="40px" />
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=otaviossousa&label=Profile%20views&color=0e75b6&style=flat" alt="otavio-sousa" /> </p>
 </h1>
 <br/>
 
@@ -53,10 +54,6 @@
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=cmsrwood&show_icons=true&hide_border=true&title_color=dee2e6&amp&icon_color=FFFFFF&amp&text_color=adb5bd&amp&bg_color=000000&count_private=true&include_all_commits=true?theme=dark"/>
   <br></br>
     <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=cmsrwood&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=adb5bd&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-
-  
-
-
   
 </td>
 
